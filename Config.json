@@ -1,0 +1,10 @@
+{
+    "SubscriptionName":"xxxxx",
+    "TenantID":"yyyyyy",
+    "ResourceGroup":"DemoAzureApp",
+    "Region":"SoutheastAsia",
+    "StorageAccountName":"janaupworkapp",
+    "TableName":"logsdata",
+    "BlobStorageName":"testcsv",
+    "PartitionKey":["partition1","partition2"]
+}
